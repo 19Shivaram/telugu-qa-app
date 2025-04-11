@@ -5,3 +5,4 @@ huggingface_hub==0.20.3
 torch
 sentence-transformers
 streamlit
+sentencepiece
