@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+transformers==4.35.2
+huggingface_hub==0.20.3
+torch
+sentence-transformers
+streamlit
